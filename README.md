@@ -38,21 +38,40 @@ CAPITULO 7:
 IDENTIFICACION DE RELACIONES EN SERIE-PERALELO
 
 1. Visualice y trace las siguientes combinaciones en serie-paralelo:
+
 (a) R1 en serie con la combinación en paralelo de R2 y R3
+
+![image](https://user-images.githubusercontent.com/117923992/206924163-144086d5-77b3-4b95-a3c0-2a7392e2796a.png)
+
 (b) R1 en paralelo con la combinación en serie de R2 y R3
+
+![image](https://user-images.githubusercontent.com/117923992/206924327-d8d5d02c-4edd-4d2b-9cf1-fa8b70e1489c.png)
+
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
+
+![image](https://user-images.githubusercontent.com/117923992/206924633-a18e1c27-a727-4117-83a5-32234dc7357e.png)
 
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/117923992/206921635-506d9a70-d993-4d81-ad0c-f2fda1a05e59.png)
 
+(a) R1 y R4 están en serie con la combinación en paralelo de R2 y R3.
+
+(b) R1 está en serie con la combinación en paralelo de R2, R3 y R4.
+
+(c) La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5. Todo esto está en paralelo con R1
+
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
 ![image](https://user-images.githubusercontent.com/117923992/206921669-c19d7f3c-9c79-4417-8b7a-0d739f9dfa23.png)
 
+![image](https://user-images.githubusercontent.com/117923992/206926047-f01ecee0-ddcd-4371-b1cb-a8322f99f8e4.png)
+
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 
 ![image](https://user-images.githubusercontent.com/117923992/206921732-df0cc45f-5e54-45e9-9caa-9e374ac94355.png)
+
+![image](https://user-images.githubusercontent.com/117923992/206929037-f9f74acf-7bf6-453e-9326-79b8925479c0.png)
 
 ANALISIS DE CIRCUITOS RTESISTIVOS EN SERIE-PARALELO
 
@@ -60,9 +79,25 @@ ANALISIS DE CIRCUITOS RTESISTIVOS EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/117923992/206921921-2317f1c5-ac1d-4ed6-9fec-50536c8d6106.png)
 
+a)
+
+![image](https://user-images.githubusercontent.com/117923992/206934763-b44e9962-9443-43d7-b7a2-6968405e384f.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/117923992/206934831-c6a87b10-ebc5-4f0c-afe2-0a19db8654ec.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/117923992/206934799-456458fa-6624-44e9-a165-7fdcfb5df94c.png)
+
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/117923992/206921921-2317f1c5-ac1d-4ed6-9fec-50536c8d6106.png)
+
+a)
+
+![image](https://user-images.githubusercontent.com/117923992/206941859-5bbe3ea2-b604-45bb-bf24-cb0da04e572e.png)
 
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
@@ -76,13 +111,23 @@ ANALISIS DE CIRCUITOS RTESISTIVOS EN SERIE-PARALELO
 
 ![image](https://user-images.githubusercontent.com/117923992/206922020-ccd4578f-e366-4ad1-a1ab-9b150c28f2ff.png)
 
+Medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tierra. La diferencia es
+![image](https://user-images.githubusercontent.com/117923992/206930028-f0f0f5a4-2662-410c-bed2-237556157ab4.png)
+
+
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922059-27ef9868-52e1-4c4a-800b-036e7558eb59.png)
 
+303 kiloohmios
+
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
 
 ![image](https://user-images.githubusercontent.com/117923992/206922086-bc7315a5-d358-4c96-8149-6d39008a45d7.png)
+
+(a)110 kohmios
+
+(b) 110 mW
 
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:AB, BC y CD.
 
@@ -92,11 +137,17 @@ DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kohmio y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 Mohmio ala salida?
 
+7.5 V sin carga, 7.29 V con carga
+
 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kohmio, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+47 Kiloohmios
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohmio conectada entre A y B.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922577-82456cff-7ccb-40e6-bc8e-09826c772039.png)
+
+8.77 V
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kohmio a cada toma, una a la vez.
 
@@ -112,13 +163,19 @@ EFECTO DE CARGA DE UN VOLTÍMETRO
 
 ![image](https://user-images.githubusercontent.com/117923992/206922367-a3cf801e-92ff-438a-8f2b-c7282621b651.png)
 
+1000 V
+
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 
 ![image](https://user-images.githubusercontent.com/117923992/206922511-0a0a6830-3073-4437-8033-ee636d39c446.png)
 
 (a) ¿Qué intervalo se deberá utilizar?
 
+Intervalo de 0.5
+
 (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+Aproximadamente 1mV
 
 REDES EN ESCALERA
 
@@ -128,11 +185,19 @@ REDES EN ESCALERA
 
 (a) La resistencia total entre las terminales de la fuente
 
+271 ohmios
+
 (b) La corriente total suministrada por la fuente
+
+221 mA
 
 (c) La corriente a través del resistor de 910 Ohmios
 
+58.7 mA
+
 (d) El voltaje desde el punto A hasta el punto B
+
+12 V
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
@@ -143,13 +208,21 @@ REDES EN ESCALERA
 
 ![image](https://user-images.githubusercontent.com/117923992/206922674-ea1aee57-0bb9-4adb-8653-ef3778c2326f.png)
 
+971mA
+
 45. Repita el problema 44 para las siguientes condiciones
 
 (a) SW3 y SW4 conectados a 112 V, SW1 y SW2 a tierra
 
+9V
+
 (b) SW3 y SW1 conectados a 112 V, SW2 y SW4 a tierra
 
+3.75 V
+
 (c) Todos los interruptores conectados a 112 V
+
+11.25 V
 
 EL PUENTE WHEATSTONE
 
@@ -157,19 +230,27 @@ EL PUENTE WHEATSTONE
 
 ![image](https://user-images.githubusercontent.com/117923992/206922879-0dcdcd3e-c315-4bb9-8372-b2d3ad0ecd27.png)
 
+6 mV (lado derecho positivo con respecto al izquierdo)
+
 LOCALIZACION DE FALLAS
 
 49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
 
 ![image](https://user-images.githubusercontent.com/117923992/206922906-b618c579-39e9-48eb-8c5d-9306fe9abb68.png)
 
+No, deberá ser de 4.39 V.
+
 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922931-d31a89ca-a827-42b4-a2bf-d069b331a705.png)
 
+El resistor de 2.2 kiloohmios (R3) está abierto.
+
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922949-c4c4311f-a0c8-4433-89c2-2fa31f250b1f.png)
+
+El resistor de 3.3 kiloohmios (R4) está abierto.
 
 CAPITULO 8
 
