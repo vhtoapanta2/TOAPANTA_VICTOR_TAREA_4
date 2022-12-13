@@ -99,13 +99,25 @@ a)
 
 ![image](https://user-images.githubusercontent.com/117923992/206941859-5bbe3ea2-b604-45bb-bf24-cb0da04e572e.png)
 
+b)
+
+![image](https://user-images.githubusercontent.com/117923992/207147116-c9b266a6-2956-4e97-9229-2a289b989915.png)
+
+c)
+
+![image](https://user-images.githubusercontent.com/117923992/207147160-4f8f882f-2f14-4251-bff6-f9581bd2173f.png)
+
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
 
 ![image](https://user-images.githubusercontent.com/117923992/206921963-792b9584-bf96-492e-acd7-4e2992d8f0d0.png)
 
+![image](https://user-images.githubusercontent.com/117923992/207155397-d5dbebee-e911-4046-9a31-9ff0d443644c.png)
+
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922001-7795368f-cca5-4bde-838c-a41aa312feab.png)
+
+![image](https://user-images.githubusercontent.com/117923992/207168502-3fedf5da-6a64-4d44-b71f-91fc85e2c186.png)
 
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
@@ -114,40 +126,41 @@ a)
 Medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tierra. La diferencia es
 ![image](https://user-images.githubusercontent.com/117923992/206930028-f0f0f5a4-2662-410c-bed2-237556157ab4.png)
 
-
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922059-27ef9868-52e1-4c4a-800b-036e7558eb59.png)
 
-303 kiloohmios
+![image](https://user-images.githubusercontent.com/117923992/207171444-61eb801a-8ea3-48ae-bfc5-ec4679fc3c2e.png)
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2
 
 ![image](https://user-images.githubusercontent.com/117923992/206922086-bc7315a5-d358-4c96-8149-6d39008a45d7.png)
 
-(a)110 kohmios
+a)110 kohmios
 
-(b) 110 mW
+b) 110 mW
 
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:AB, BC y CD.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922119-01b2aa2e-8ccd-424f-80a5-0293e4e91a09.png)
 
+![image](https://user-images.githubusercontent.com/117923992/207202073-a02c6754-96a6-4835-906c-a24064b1d8c8.png)
+
 DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kohmio y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 Mohmio ala salida?
 
-7.5 V sin carga, 7.29 V con carga
+![image](https://user-images.githubusercontent.com/117923992/207369289-51df5a7d-06ef-48c7-9eb9-80017d25d552.png)
 
-27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kohmio, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+27. ¿Cuál de dos cargas, una de 10 kohmio y otra de 47 kohmio, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
 
-47 Kiloohmios
+47 Kiloohmios provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohmio conectada entre A y B.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922577-82456cff-7ccb-40e6-bc8e-09826c772039.png)
 
-8.77 V
+![image](https://user-images.githubusercontent.com/117923992/207376287-5df6e122-f466-4227-9c66-2bc970a1f3da.png)
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kohmio a cada toma, una a la vez.
 
