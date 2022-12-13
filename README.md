@@ -20,7 +20,21 @@ TAREA N° 4
 
 OBJETIVOS GENERALES:
 
+Identificar y realizar ejercicios del tema de "Circuitos en serie-paralelo" conociendo sus caracteristicas y relaciones.
+
 OBJETIVOS ESPECIFICOS:
+
+•  Identificar distintintos circuitos en serie-paralelo
+
+•  Investigar en diferentes sitios de informacion hacerca del tema.
+
+•  Analizar e identificar los divisores de voltaje con carga
+
+• Conocer y analizar las diferentes formulas.
+
+• Resolver los ejercicios empleando todo lo conocido
+
+•  Localizar fallas en circuitos
 
       MARCO TEORICO:
 
@@ -356,7 +370,18 @@ CONVERSIONES DELTA a Y (Δ a Y) y Y a Δ
 
 
       VIDEO:
-      
+
+Link:
+
       CONCLUSIONES:
-      
+
+Con lo antes ya expuesto se puede concluir queEl teorema de Thevenin y Norton nos ayuda a simplificar un circuito extenso nos sirve para calcular una resistencia y voltaje equivalente ahi atravez de llegar a sus respectivos circuitos equivalentes podemos calcular lo que nos pida el theorema de thevenin nos queda en funcion de voltje y el de Norton en funcion de una fuente resistencia.
+
+En un circuito en serie se cumple que la resistencia total(RT) del circuito es igual a la suma de las resistencias que hay en el circuito. La intensidad en un circuito serie es la misma en todo el circuito como ya se ha dicho.
+
+Del mismo modo en un circuito paralelo se cumple que la resistencia total del circuito es igual a la inversa de la suma de las inversas de las resistencias que hay en el circuito. Siempre se cumple que la resistencia total es más pequeña que la más pequeña de las resistencias conectadas en el circuito.
+
       BIBLIOGRAFIA:
+• Floyd, TL (sf). Principios de circuitos eléctricos (8.a ed.). http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
+• 1. Repaso: Circuitos serie- paralelo. (s. f.). Blog de Tecnología - IES José Arencibia Gil - Telde. https://www3.gobiernodecanarias.org/medusa/ecoblog/fsancac/2014/10/06/repaso-circuitos-serie-paralelo/#:~:text=Circuito%20en%20paralelo&amp;text=La%20intensidad%20de%20corriente%20se,habrá%20menos%20intensidad%20y%20viceversa.
