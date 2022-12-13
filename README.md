@@ -164,17 +164,23 @@ DIVISORES DE VOLTAJE CON CARGAS RESISTIVAS
 
 31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kohmio a cada toma, una a la vez.
 
+![image](https://user-images.githubusercontent.com/117923992/207391352-a677da84-4b77-4b0c-8bdf-2d8129d22546.png)
+
 33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922297-b76b80dd-7593-4678-90f7-2b2e48319b25.png)
 
 ![image](https://user-images.githubusercontent.com/117923992/206922551-0e3674eb-273d-4fde-99f9-05ec1d328aee.png)
 
+![image](https://user-images.githubusercontent.com/117923992/207391626-240a2071-89b8-40a0-a162-2ce332a541ec.png)
+
 EFECTO DE CARGA DE UN VOLTÍMETRO
 
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
 
 ![image](https://user-images.githubusercontent.com/117923992/206922367-a3cf801e-92ff-438a-8f2b-c7282621b651.png)
+
+Respuesta:
 
 1000 V
 
@@ -215,6 +221,8 @@ REDES EN ESCALERA
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
 ![image](https://user-images.githubusercontent.com/117923992/206922623-2bee31f7-89e3-404f-9651-453d5ea2ed18.png)
+
+![image](https://user-images.githubusercontent.com/117923992/207396990-75d3d3f4-90df-4b67-8017-2d797fe67580.png)
 
 43. Determine
 ![image](https://user-images.githubusercontent.com/117923992/206922654-178c44ee-2f73-4cbb-b500-57cd26afb727.png)
