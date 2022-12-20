@@ -289,84 +289,188 @@ El resistor de 3.3 kiloohmios (R4) está abierto.
 
 CAPITULO 8
 
-CONVERSIONES DE FUENTE
+CONVERCIONES DE FUENTE
 
-1. Una fuente de voltaje tiene los valores VS 5 300 V y RS 5 50 ohmios. Conviértala en una fuente de corriente equivalente.
+1. Una fuente de voltaje tiene los valores VS 5 300 V y RS 5 50 Æ. Conviértala en una fuente de corriente equivalente.
 
-3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+![image](https://user-images.githubusercontent.com/117923992/208544814-47a624da-ad51-4af7-9779-ad5b190d70fc.png)
+ ![image](https://user-images.githubusercontent.com/117923992/208544870-51e9e6fe-5bfc-414f-ad78-439cbe1e2a2e.png)
 
-5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 kohmios. Conviértala en una fuente de voltaje equivalente.
+![image](https://user-images.githubusercontent.com/117923992/208545143-633ab03f-4dad-4f14-a1cc-93c1e4b09eaa.png)
 
-EL TEOREMA DE SUPUERPOSICION
+2. Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes.
 
-7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+![image](https://user-images.githubusercontent.com/117923992/208538801-4d1f56d2-e6fa-4b9c-9719-d942fe2b4cff.png)
 
-![image](https://user-images.githubusercontent.com/117923992/206923388-dc390b64-e02e-49f1-a8a7-77164c77ffd6.png)
+A)
 
-9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+![image](https://user-images.githubusercontent.com/117923992/208546214-f8f8da0d-eae6-40a9-9665-877a4b09f2fd.png)
+![image](https://user-images.githubusercontent.com/117923992/208546109-c6538e41-6fee-4a36-a3f4-8b61c2931522.png)
 
-![image](https://user-images.githubusercontent.com/117923992/206923405-2e2cd095-393d-4a18-a631-22ce84fbef83.png)
+B)
 
-11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kohmios, ¿cuál es el intervalo del voltaje de referencia?
+![image](https://user-images.githubusercontent.com/117923992/208546427-36a53ab4-4a9a-416a-93c8-89183a4d8c92.png)
+![image](https://user-images.githubusercontent.com/117923992/208546576-1d91bfec-eec4-42ae-a33c-07f391eaa483.png)
 
-![image](https://user-images.githubusercontent.com/117923992/206923460-366188d8-5db6-402e-ae1f-f8f6d96dc02d.png)
 
-13. Determine el voltaje del punto A al punto B en la figura 8-73.
+4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
 
-![image](https://user-images.githubusercontent.com/117923992/206923473-074824b7-17c7-4b5c-9c33-9271936c3560.png)
+6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
-15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+![image](https://user-images.githubusercontent.com/117923992/208538922-d75ae9d3-287c-4536-9840-08e26a1f7f86.png)
 
-![image](https://user-images.githubusercontent.com/117923992/206923504-690cbce6-4955-4127-a165-69ac462bde82.png)
+A)
+
+![image](https://user-images.githubusercontent.com/117923992/208547084-b6150399-9ee3-432a-8747-487a16d3f5bc.png)
+![image](https://user-images.githubusercontent.com/117923992/208547495-9c0ab66c-34f3-4afd-a512-b9c00e1d0dc3.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/117923992/208547271-e73304d4-b61c-4de3-adb3-9b451ee15355.png)
+![image](https://user-images.githubusercontent.com/117923992/208547611-14343e7a-23eb-435d-a831-85c5a1e7703c.png)
+
+EL TEOREMA DE SUPERPOSICION
+
+8. Use el teorema de superposición para determinar la corriente a través, y el voltaje entre, los extremos de la rama R2 de la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/117923992/208539057-d31ca651-c70f-40e2-91f8-2fc027e322c1.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208550071-dcc094c7-96b5-4d76-8411-f923b9c76eb5.png) 
+
+![image](https://user-images.githubusercontent.com/117923992/208550213-8b1e97f0-c146-40d4-a86e-5ef322270009.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208550441-ad907dde-e3e3-4306-8a3c-143ca62ef632.png)
+
+10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados en la figura 8-71.
+
+![image](https://user-images.githubusercontent.com/117923992/208539136-79fd4351-f275-47b8-94d4-a7721f46fe73.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208556945-44ebafad-6b3e-4d21-8e28-e91f916e9fd6.png)
+
+12. Repita el problema 11 si R2 es de 10 kohmios.
+
+En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA>VENTRADA; de lo contrario es positiva, El comparador no carga a una u otra entrada. Si R2 es de 1.0k 
+
+![image](https://user-images.githubusercontent.com/117923992/208539249-461bbed4-3732-489a-808b-a38b4b3c21ec.png)
+
+14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor.
+
+![image](https://user-images.githubusercontent.com/117923992/208539338-4bc55f41-7952-410e-ad3f-586c750ff39c.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208558510-5786f2d2-dfc4-4220-8f00-bcbdee1e04cc.png)
 
 TEOREMA DE THEVENIN
 
-17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+16. Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
 
-![image](https://user-images.githubusercontent.com/117923992/206923534-75770aa9-1a9d-46ce-9a58-becedfc43431.png)
+![image](https://user-images.githubusercontent.com/117923992/208539477-52a49588-374f-4b99-b1a7-b817a3740e71.png)
 
-19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+A) Abriremos el voltaje A-B
 
-![image](https://user-images.githubusercontent.com/117923992/206923548-5ba0543f-18fa-47c8-8011-ecd53b2eb3a4.png)
+![image](https://user-images.githubusercontent.com/117923992/208558991-0044c079-96ff-48e8-841c-51389dfcff1b.png)
+
+Cortocircuitamos la fuente de voltaje y calculamos la resistencia de Th
+
+![image](https://user-images.githubusercontent.com/117923992/208559236-3435d20a-4a32-478e-89cd-597359903228.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208559889-ad79eb98-a969-433e-b04c-7fb4f7aa3a6e.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208559950-3641d4c9-4ed0-49ac-bf7d-b95f17e30994.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208560323-3c8f5126-22de-4396-8eb1-8dc4c243c9b0.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/117923992/208560513-b096967e-450a-47ed-b2ff-2ac372308794.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208561110-3a7c9a4f-f3b2-4d69-a0be-940fdc3a7778.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/117923992/208561213-a2e949a6-1916-4bbd-90fd-acec344e2b5c.png)
+
+18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/117923992/208539550-0cc0031d-7302-4567-b3de-518bf9ab2b5d.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208561256-6e4a53cf-d1da-49e9-8649-033c11df19a9.png)
+
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
+
+![image](https://user-images.githubusercontent.com/117923992/208539600-3c235f71-0aa3-4575-a071-24136b4c8829.png)
+
+22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+
+![image](https://user-images.githubusercontent.com/117923992/208539662-8275e5b3-bac7-4a4a-a5a1-a937ab5164a3.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208563250-ab7c0052-e381-453c-aa49-006bba532e44.png)
+
+TEOREMA DE NORTON 
+
+24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77.
+
+![image](https://user-images.githubusercontent.com/117923992/208539772-a6868c8b-8eea-43cc-ab33-aaac972bd350.png)
+
+Calculamos la resistencia de Norton
+
+![image](https://user-images.githubusercontent.com/117923992/208568824-9ab03f2c-fcb1-4f05-8db2-1f04fef7dd67.png)
+
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kohmios.
+
+![image](https://user-images.githubusercontent.com/117923992/208539976-f32b65b2-b5e2-4ccf-85c5-811f4880b355.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/117923992/208540056-1adc9e9b-446f-42fe-aea6-4ed51b302ae5.png)
+
+TEOREMA DE TRANSFERENCIA DE POTENCIA MAXIMA
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/117923992/208540186-0419d935-7701-427e-aaa3-78222d10e5d4.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/117923992/208540243-6b89a3e4-3e35-4d93-822d-d2687c70c683.png)
+
+CONVERSIONES DELTA a Y (Δ a Y) y de Y a Δ 
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/117923992/208540445-cc302eae-5c4c-4af4-887a-ae44e3b0cf63.png)
+
+36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/117923992/208540480-4d0a0739-7c77-4fe0-8702-9447f7906391.png)
 
 
-21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 
-![image](https://user-images.githubusercontent.com/117923992/206923569-f3fb4280-7c9e-449d-92d4-7211f3926adf.png)
 
-TEOREMA DE NORTON
 
-23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
 
-![image](https://user-images.githubusercontent.com/117923992/206923619-e601ebf2-64ba-4074-86f8-520ccccb5d2e.png)
 
-25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 
-![image](https://user-images.githubusercontent.com/117923992/206923648-ed2877a5-7135-4124-ae32-ff1d91ee29e2.png)
 
-27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 
-![image](https://user-images.githubusercontent.com/117923992/206923663-bfa4d38a-5669-4f78-b333-59698987accd.png)
 
-29. Aplique el teorema de Norton al circuito de la figura 8-84.
 
-![image](https://user-images.githubusercontent.com/117923992/206923682-8348fda2-9fd3-438a-89e0-a098f3530d9c.png)
 
-TEOREMA DE LA TRASFERENCIA DE POTECIA MAXIMA
 
-31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
 
-![image](https://user-images.githubusercontent.com/117923992/206923722-0fcbf8a9-a96d-45c5-8b38-981cd792c298.png)
 
-33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 
-![image](https://user-images.githubusercontent.com/117923992/206923747-a18d7857-61ac-4fa8-a94a-fc6300d29107.png)
 
-CONVERSIONES DELTA a Y (Δ a Y) y Y a Δ
 
-35. En la figura 8-89, convierta cada red Y en una red delta.
 
-![image](https://user-images.githubusercontent.com/117923992/206923819-8c3dcc2c-ab01-4788-bef9-7f3f0b069602.png)
+
+
+
+
+
+
+
+
+
 
 
       VIDEO:
