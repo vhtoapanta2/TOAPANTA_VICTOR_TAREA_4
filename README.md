@@ -493,36 +493,7 @@ Convierto el circuito R3 R4 Y R5 en estralla
 
 Calculamos las corrientes:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/117923992/208722674-9611835e-9ef6-433b-822b-cf8300a43df4.png)
 
 
       VIDEO:
