@@ -415,19 +415,59 @@ Calculamos la resistencia de Norton
 
 ![image](https://user-images.githubusercontent.com/117923992/208568824-9ab03f2c-fcb1-4f05-8db2-1f04fef7dd67.png)
 
+![image](https://user-images.githubusercontent.com/117923992/208673466-e32ce93a-9053-40e1-8c43-3fffcccda633.png)
+
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kohmios.
 
 ![image](https://user-images.githubusercontent.com/117923992/208539976-f32b65b2-b5e2-4ccf-85c5-811f4880b355.png)
 
+![image](https://user-images.githubusercontent.com/117923992/208673573-c4e287e7-3600-492f-bcbf-d55def9fc0d8.png)
+
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
 ![image](https://user-images.githubusercontent.com/117923992/208540056-1adc9e9b-446f-42fe-aea6-4ed51b302ae5.png)
+
+Cortocircuitamos la fuente de voltaje y abrimos la fuente e de corriente quedándonos un circuito como el siguiente;
+
+![image](https://user-images.githubusercontent.com/117923992/208674012-a3773798-c151-4e3c-9285-f3fc93d9c400.png)
+
+Calculamos la resistencia de Norton:
+
+![image](https://user-images.githubusercontent.com/117923992/208674080-9695efac-24d9-40b4-b6e5-d6d1647edfc7.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208674163-297a8f38-83d1-4f55-9a68-96733737e77a.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208674194-9956f6d2-3b90-4cd1-bf2c-d3815aac2628.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208674388-9177115d-6947-40b0-8e73-ae8a0efd9c42.png)
+
+Calculamos las corrientes de Norton
+
+![image](https://user-images.githubusercontent.com/117923992/208674485-19c84d1f-e3e3-4c88-83fb-d6c5ce467e26.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208674530-f7d2fecd-47d5-4fb7-be02-41f76b835f76.png)
 
 TEOREMA DE TRANSFERENCIA DE POTENCIA MAXIMA
 
 30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
 
 ![image](https://user-images.githubusercontent.com/117923992/208540186-0419d935-7701-427e-aaa3-78222d10e5d4.png)
+
+A)
+
+![image](https://user-images.githubusercontent.com/117923992/208674944-1245e547-c0d8-4baa-80bd-c8b069b49220.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/117923992/208674982-80119c72-9b2a-44ae-9e5c-9a57c853888a.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/117923992/208675025-b20396a2-1122-4dca-82d5-1fd6db4c8683.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/117923992/208675077-6677d482-a6dc-4bc0-ae5b-bfe6feb2c3ab.png)
 
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
 
