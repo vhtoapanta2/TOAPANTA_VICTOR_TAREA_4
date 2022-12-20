@@ -479,9 +479,21 @@ CONVERSIONES DELTA a Y (Δ a Y) y de Y a Δ
 
 ![image](https://user-images.githubusercontent.com/117923992/208540445-cc302eae-5c4c-4af4-887a-ae44e3b0cf63.png)
 
+![image](https://user-images.githubusercontent.com/117923992/208685421-db0d5ba7-7b23-497c-a2b1-5d496193346f.png)
+
 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
 
 ![image](https://user-images.githubusercontent.com/117923992/208540480-4d0a0739-7c77-4fe0-8702-9447f7906391.png)
+
+Convierto el circuito R3 R4 Y R5 en estralla
+
+![image](https://user-images.githubusercontent.com/117923992/208688281-1ba23e3b-5275-4399-ac49-e7bc7fe42316.png)
+
+![image](https://user-images.githubusercontent.com/117923992/208688233-e567bfa9-2934-43a8-aa84-e02f8cd7cd70.png)
+
+Calculamos las corrientes:
+
+
 
 
 
