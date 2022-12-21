@@ -498,7 +498,7 @@ Calculamos las corrientes:
 
       VIDEO:
 
-Link:
+Link: https://youtu.be/CpKxP8E7qlc 
 
       CONCLUSIONES:
 
